@@ -1,0 +1,119 @@
+
+
+header {
+  
+  color: green;
+  background-color:gray;
+}
+header h1{
+  text-align: left;
+  color:gray;
+  background-color: green;
+  border-right: green solid 10px;
+}
+nav {
+  text-align:right;
+}
+
+nav  a {
+  text-decoration: underline green;
+  font-size: x-large;
+  color: green;
+}
+
+nav a:hover{ 
+  text-decoration:indigo underline;
+}
+.resumeSections {
+  border-right:green solid 5px;
+  color: green;text-align: right;
+}
+   
+img {
+  margin-top: 20px;
+}
+p {
+  color: green;
+  margin-top: 20px;
+}
+
+.skills {
+  background-color: green;
+  color:grey;
+  border-right: 5px;
+  margin-top: 200px;
+  margin-left: 700px;
+  width:160px;  
+}
+
+
+.project1 {
+  border:gray;
+  border-style: solid;
+  width:900px;
+  height:300px;
+  margin-top: 20px;
+  
+  background-image: url("Pokemon2.png");
+  background-repeat: no-repeat;
+/*  background-size: 100% 100%;*/
+  
+}
+
+.project2 {
+  border:gray;
+  border-style: solid;
+  width:900px;
+  height:300px;
+  margin-top: 20px;
+  background-image: url("dayplanner.jpg");
+  background-repeat: no-repeat;
+  
+  }
+  
+  .project3 {
+  border:gray;
+  border-style: solid;
+  width:900px;
+  height:300px;
+  margin-top: 20px;
+  background-image: url("weatherdashboard2.png");
+  background-repeat: no-repeat;
+}
+
+.project4 {
+  border:gray;
+  border-style: solid;
+  width:900px;
+  height:300px;
+  margin-top: 20px;
+  background-image: url("searchNews.png");
+  background-repeat: no-repeat;
+}
+
+.project5 {
+  border:gray;
+  border-style: solid;
+  width:900px;
+  height:400px;
+  margin-top: 20px;
+  background-image: url("TeamProfile.png");
+  background-repeat: no-repeat;
+}
+
+address {
+  font-size:x-large;
+  text-align: center;
+  color: green;
+  text-decoration: underline green;
+  margin-top: 20px;
+}
+
+address a {
+  color:green;
+  margin:10px;
+}
+
+address a:hover{ 
+  text-decoration:indigo underline;
+}
